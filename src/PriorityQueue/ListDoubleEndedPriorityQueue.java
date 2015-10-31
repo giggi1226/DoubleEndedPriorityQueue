@@ -2,7 +2,7 @@
 Linked list implementation of a DoubleEndedPriorityQueue interface 
 */
 
-package cop3530;
+package PriorityQueue;
 
 import java.util.Comparator;
 import java.util.Random;

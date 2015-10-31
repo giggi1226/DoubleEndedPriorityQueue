@@ -1,5 +1,5 @@
 
-package cop3530;
+package PriorityQueue;
 
 import java.util.Comparator;
 

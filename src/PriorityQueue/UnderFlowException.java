@@ -1,4 +1,4 @@
-package cop3530;
+package PriorityQueue;
 
 public class UnderFlowException extends RuntimeException 
 {

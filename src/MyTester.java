@@ -1,6 +1,6 @@
-import cop3530.DoubleEndedPriorityQueue;
-import cop3530.ListDoubleEndedPriorityQueue;
-import cop3530.TreeDoubleEndedPriorityQueue;
+import PriorityQueue.DoubleEndedPriorityQueue;
+import PriorityQueue.ListDoubleEndedPriorityQueue;
+import PriorityQueue.TreeDoubleEndedPriorityQueue;
 import java.io.PrintStream;
 
 class MyTester
