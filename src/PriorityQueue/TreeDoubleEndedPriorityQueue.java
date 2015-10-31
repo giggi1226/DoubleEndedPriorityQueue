@@ -243,10 +243,9 @@ public class TreeDoubleEndedPriorityQueue<AnyType> implements DoubleEndedPriorit
             return cmp.compare( lhs, rhs );
     }
     
-    //prints list enclosed in brackets
+    //prints tree in order enclosed in brackets
     public String toString( )
     {
-        
         StringBuilder sb = new StringBuilder( "[ ");
         toString( root, sb );
         sb.append( "]" );
